@@ -1,3 +1,10 @@
+I'm testing it now (jan/2024). It seems to work well.
+I was trying to do the same with Python MSOFFCRYPTO, but it was taking a lot of work.
+This solution is exactly what I was loking for.
+
+carliedu
+Sao Paulo - Brazil
+
 # PHPDecryptXLSXWithPassword
 Decrypt encrypted (for which password is already known) XLSX files with PHP.
 
